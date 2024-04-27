@@ -23,7 +23,7 @@
     
 - `백엔드`
     
-    **spring boot** (자바 11 버전)
+    **spring boot** (자바 17 버전)
     
 - `DateBase`
     
